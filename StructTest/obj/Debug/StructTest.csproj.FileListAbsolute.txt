@@ -1,0 +1,9 @@
+c:\users\asus\documents\visual studio 2015\Projects\StructTest\StructTest\bin\Debug\StructTest.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\StructTest\StructTest\obj\Debug\StructTest.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\StructTest\StructTest\obj\Debug\StructTest.Form1.resources
+c:\users\asus\documents\visual studio 2015\Projects\StructTest\StructTest\obj\Debug\StructTest.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\StructTest\StructTest\obj\Debug\StructTest.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\StructTest\StructTest\bin\Debug\StructTest.exe
+c:\users\asus\documents\visual studio 2015\Projects\StructTest\StructTest\bin\Debug\StructTest.pdb
+c:\users\asus\documents\visual studio 2015\Projects\StructTest\StructTest\obj\Debug\StructTest.exe
+c:\users\asus\documents\visual studio 2015\Projects\StructTest\StructTest\obj\Debug\StructTest.pdb
